@@ -55,7 +55,7 @@ src/
 4. **Matricular Aluno**: Insira o nome do aluno e suas notas, depois escolha a disciplina na qual deseja matricular o aluno.
 5. **Calcular Situação**: Insira as notas de um aluno e veja sua situação (aprovado, em recuperação ou reprovado).
 6. **Listar Disciplinas**: Mostra todas as disciplinas cadastradas.
-7. **Listar Alunos**: Exibe todos os alunos matriculados em uma disciplina específica.
+7. **Listar Alunos**: Exibe todos os alunos matriculados em uma disciplina específica, junto com suas notas e a situação (aprovado, em recuperação ou reprovado).
 
 ## Erros e Tratamento:
 - Caso o usuário insira notas inválidas (não numéricas) ou tente realizar operações sem inserir os dados corretamente, o sistema exibirá mensagens de erro explicando o que está errado.
